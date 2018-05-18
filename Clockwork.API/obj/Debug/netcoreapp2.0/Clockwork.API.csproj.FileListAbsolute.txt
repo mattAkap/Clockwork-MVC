@@ -1,0 +1,11 @@
+C:\Users\mkaplan\Desktop\AWHClockWorkApp-master\Clockwork.API\bin\Debug\netcoreapp2.0\Clockwork.API.deps.json
+C:\Users\mkaplan\Desktop\AWHClockWorkApp-master\Clockwork.API\bin\Debug\netcoreapp2.0\Clockwork.API.runtimeconfig.json
+C:\Users\mkaplan\Desktop\AWHClockWorkApp-master\Clockwork.API\bin\Debug\netcoreapp2.0\Clockwork.API.runtimeconfig.dev.json
+C:\Users\mkaplan\Desktop\AWHClockWorkApp-master\Clockwork.API\bin\Debug\netcoreapp2.0\Clockwork.API.dll
+C:\Users\mkaplan\Desktop\AWHClockWorkApp-master\Clockwork.API\bin\Debug\netcoreapp2.0\Clockwork.API.pdb
+C:\Users\mkaplan\Desktop\AWHClockWorkApp-master\Clockwork.API\obj\Debug\netcoreapp2.0\Clockwork.API.csproj.CoreCompileInputs.cache
+C:\Users\mkaplan\Desktop\AWHClockWorkApp-master\Clockwork.API\obj\Debug\netcoreapp2.0\Clockwork.API.AssemblyInfoInputs.cache
+C:\Users\mkaplan\Desktop\AWHClockWorkApp-master\Clockwork.API\obj\Debug\netcoreapp2.0\Clockwork.API.AssemblyInfo.cs
+C:\Users\mkaplan\Desktop\AWHClockWorkApp-master\Clockwork.API\obj\Debug\netcoreapp2.0\Clockwork.API.dll
+C:\Users\mkaplan\Desktop\AWHClockWorkApp-master\Clockwork.API\obj\Debug\netcoreapp2.0\Clockwork.API.pdb
+C:\Users\mkaplan\Desktop\AWHClockWorkApp-master\Clockwork.API\obj\Debug\netcoreapp2.0\Clockwork.API.csprojResolveAssemblyReference.cache

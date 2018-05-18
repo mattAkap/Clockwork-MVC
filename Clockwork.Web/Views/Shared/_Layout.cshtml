@@ -1,0 +1,19 @@
+﻿@using System.Configuration
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <meta charset="utf-8" />
+
+    <link rel="stylesheet" type="text/css" href="~/Content/css/site.css">
+
+    <script>
+        window.APIBaseUrl = '@ConfigurationManager.AppSettings["APIBaseUrl"]';
+    </script>
+</head>
+<body>
+	@RenderBody()
+    @RenderSection("scripts")
+</body>
+</html>

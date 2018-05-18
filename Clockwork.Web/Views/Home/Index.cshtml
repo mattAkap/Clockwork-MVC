@@ -1,0 +1,25 @@
+﻿@model Clockwork.Web.Models.HomeViewModel
+
+<div class="content-container">
+    <div>
+        <div style="display:inline-block;"><strong>Current Timezone: </strong></div>
+        <select id="tzSelector" onchange="updateTimeZone()"></select>
+    </div>
+    <h2>AWH Clockwork Project @Model.Version on @Model.Runtime!</h2>
+    <div class="latest-content">
+        <p id="latestTime"></p>
+    </div>
+    <div onclick="GetLatest()" class="click-div">
+        <div class="click-div-content">What's the Time?</div>
+    </div>
+    <p></p>
+    <div onclick="GetAll()" class="click-div" id="historyList">
+        <div class="click-div-content">See History</div>
+        <div id="historyItems"></div>
+    </div>
+</div>
+
+@section scripts
+{
+    <script src="~/Content/js/home.js" type="text/javascript"></script>
+}

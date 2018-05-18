@@ -1,0 +1,36 @@
+﻿.content-container {
+    text-align: center;
+    border: ridge;
+    height: 100%;
+}
+
+.click-div {
+    background-color: lightgray;
+    display: inline-block;
+    border-radius: 10px;
+    user-select: none;
+    transition: linear .2s;
+    height: 18px;
+}
+
+    .click-div:hover {
+        background-color: gray;
+        cursor: pointer;
+    }
+
+.click-div-content {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.latest-content {
+    min-height: 50px;
+}
+
+    .latest-content p {
+        margin: 0;
+    }
+
+#historyList {
+    transition: linear .02s;
+}
