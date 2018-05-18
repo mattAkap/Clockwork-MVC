@@ -31,6 +31,10 @@
         margin: 0;
     }
 
+.timezone-label {
+    display: inline-block;
+}
+
 #historyList {
     transition: linear .02s;
 }

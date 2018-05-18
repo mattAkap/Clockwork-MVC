@@ -13048,11 +13048,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\mkaplan\\Desktop\\AWHClockWorkApp-master\\Clockwork.API\\Clockwork.API.csproj",
+      "projectUniqueName": "C:\\Users\\mkaplan\\Documents\\GitHub\\Clockwork-MVC\\Clockwork.API\\Clockwork.API.csproj",
       "projectName": "Clockwork.API",
-      "projectPath": "C:\\Users\\mkaplan\\Desktop\\AWHClockWorkApp-master\\Clockwork.API\\Clockwork.API.csproj",
+      "projectPath": "C:\\Users\\mkaplan\\Documents\\GitHub\\Clockwork-MVC\\Clockwork.API\\Clockwork.API.csproj",
       "packagesPath": "C:\\Users\\mkaplan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mkaplan\\Desktop\\AWHClockWorkApp-master\\Clockwork.API\\obj\\",
+      "outputPath": "C:\\Users\\mkaplan\\Documents\\GitHub\\Clockwork-MVC\\Clockwork.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"

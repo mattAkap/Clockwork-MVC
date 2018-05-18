@@ -108,15 +108,11 @@ function updateTimeZone() {
     };
 
     var selector = document.getElementById('tzSelector');
-    var uri = window.APIBaseUrl + '/api/update/' + encodeParameter(selector.value)
+    var uri = window.APIBaseUrl + '/api/update/' + selector.value
 
     xhttp.open("GET", uri, true);
     xhttp.setRequestHeader("Content-type", "application/json");
     xhttp.send();
-}
-
-function encodeParameter(param) {
-    return param.replace('/', '%2F');
 }
 
 function formatDateTime(param) {
